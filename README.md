@@ -12,7 +12,7 @@ This is a fully responsive landing page built using **HTML, CSS, and JavaScript*
 1. **Clone the repository** (if applicable) or download the project files.
    ```sh
    git clone https://github.com/codefixxx/minimalistic-landing-page.git
-   cd basic responsive langing page
+   cd basic responsive landing page
    ```
 2. **Open the project in VS Code**.
 3. **Install Live Server Extension** (if not already installed).
